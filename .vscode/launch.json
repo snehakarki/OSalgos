@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Academics/OS-ALGOS",
-      "program": "d:/Academics/OS-ALGOS/build/Debug/outDebug",
+      "cwd": "d:/Academics/os/OS-ALGOS",
+      "program": "d:/Academics/os/OS-ALGOS/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
